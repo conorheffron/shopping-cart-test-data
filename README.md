@@ -1,6 +1,6 @@
 # shopping-cart-test-data
 
-JSSON test data used for scala application [here](https://github.com/conorheffron/shoppingcart-scala)
+JSON test data used for scala application [here](https://github.com/conorheffron/shoppingcart-scala)
 
 [![Scala CI](https://github.com/conorheffron/shoppingcart-scala/actions/workflows/scala.yml/badge.svg)](https://github.com/conorheffron/shoppingcart-scala/actions/workflows/scala.yml)
 
