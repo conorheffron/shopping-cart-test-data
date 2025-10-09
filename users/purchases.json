@@ -1,0 +1,44 @@
+{
+  "purchases": [
+    {
+      "user_id": "conorheffron",
+      "cart_id": [1, 2, 33, 55 77, 7]
+    },
+    {
+      "user_id": "user1",
+      "cart_id": [101, 201, 301, 44]
+    },
+    {
+      "user_id": "user2",
+      "cart_id": [39, 42]
+    },
+    {
+      "user_id": "test_user",
+      "cart_id": [22, 23, 31]
+    },
+    {
+      "user_id": "user5",
+      "cart_id": [91, 92, 93]
+    },
+    {
+      "user_id": "user4",
+      "cart_id": [89, 85, 86]
+    },
+    {
+      "user_id": "user3",
+      "cart_id": [3, 5. 81]
+    },
+    {
+      "user_id": "user6",
+      "cart_id": [71, 76, 75]
+    },
+    {
+      "user_id": "user9",
+      "cart_id": []
+    },
+    {
+      "user_id": "user100",
+      "cart_id": [82, 83]
+    }
+  ]
+}
